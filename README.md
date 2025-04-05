@@ -27,11 +27,5 @@ My research interests include:
 ![](https://img.shields.io/badge/Microsoft-PowerAutomate-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/3D-Blender-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-## GitHub Stats
-
-[![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamphanmusic&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamphanmusic)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
