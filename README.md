@@ -4,9 +4,9 @@
 
 ### Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I graduated from the Master of Business Analytics at The University of Geneva (GSEM Faculty).
+I graduated from the Master of Business Analytics at The University of Geneva (GSEM Faculty) in 2024.
 
-2022 - Diploma in Bachelor of Science in Economics and Management (GSEM Faculty)
+Got my Diploma in Bachelor of Science in Economics and Management (GSEM Faculty) in 2022
 
 ## Research interests
 My research interests include:
